@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🐣 Minjyo
-Web Fronetend Developer
+- Web Fronetend Developer
 
-[Resume](https://time-mistake-8e7.notion.site/Minjyo-729c35a93ab4430fa9ff5746a17ddf2e) 
-<br/>
+- [Resume](https://time-mistake-8e7.notion.site/Minjyo-729c35a93ab4430fa9ff5746a17ddf2e) 
 <br/>
 
 ## 🛠 Tech Stack
