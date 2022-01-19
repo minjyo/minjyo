@@ -14,6 +14,16 @@ Here are some ideas to get you started:
 -->
 ## 🐣 Minjyo
 Web Fronetend Developer
+<br/>
+<br/>
+Univ. 건국대학교 컴퓨터공학과 
+<br/>
+
+Company.
+<br/>
+
+Etc. 부스트캠프 웹 모바일 6기, SGS 캠프 2기
+
 
 <br/>
 
