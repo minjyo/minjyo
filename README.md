@@ -19,7 +19,7 @@ Web Fronetend Developer
 Univ. 건국대학교 컴퓨터공학과 
 <br/>
 
-Company. 스마일게이트 스토브 플랫폼개발본부
+Company. 스마일게이트 메가포트 스토어서비스FE개발팀 
 <br/>
 
 Etc. 부스트캠프 웹 모바일 6기, SGS 캠프 2기
